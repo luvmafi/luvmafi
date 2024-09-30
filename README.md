@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ștefan Maftei</h1>
-<h3 align="center">I'm a second-year student at the Faculty of Mathematics and Computer Science, University of Bucharest. Eager to enhance my skills in IT job opportunities.</h3>
+<h3 align="center">I'm a third-year student at the Faculty of Mathematics and Computer Science, University of Bucharest. Eager to enhance my skills in IT job opportunities.</h3>
 
 - 🌱 I’m currently learning **Java, Data Science, dotnet, docker, PL/SQL, unity**
 
