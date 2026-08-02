@@ -20,23 +20,6 @@ while continuously expanding my knowledge in software engineering and data scien
 - 🤖 Exploring **Artificial Intelligence, LLMs, RAG systems, and Data Science**
 - 🌱 Currently learning **Machine Learning, Docker and Cloud Technologies**
 
----
-
-### 🛠️ Featured Projects
-
-#### 📱 UniHelp – AI-Powered University Assistant
-- Cross-platform mobile application built with React Native and Firebase.
-- AI assistant powered by **Llama 3.1** and a **Retrieval-Augmented Generation (RAG)** pipeline.
-- Interactive campus navigation using Google Maps APIs.
-- Secure role-based authentication and scalable Firebase backend.
-
-#### 🏃 Sprintify – Android Running Tracker
-- Native Android application built with Kotlin and Jetpack Compose.
-- Real-time GPS activity tracking with Google Maps integration.
-- Firebase Authentication and Cloud Firestore.
-- Social features including route sharing, ratings, and competitions.
-
----
 
 ### 📫 Contact
 
